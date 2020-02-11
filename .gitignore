@@ -1,0 +1,11 @@
+# ignore certain temporary files
+*~
+
+# ignore certain MS Office files
+*.tmp
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
